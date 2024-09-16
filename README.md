@@ -1,4 +1,4 @@
-# Basic Calculator
+# Calculator
 
 This is a basic calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculation. The calculator features a clean interface and real-time input display, allowing users to see the full expression as they type.
 
